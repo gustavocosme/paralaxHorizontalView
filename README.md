@@ -1,4 +1,4 @@
-# paralaxHorizontalView
+# ParalaxHorizontalView
 ParalaxHorizontalView - SwiftUI
 
 
